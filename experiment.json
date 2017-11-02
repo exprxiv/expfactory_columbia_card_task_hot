@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_columbia_card_task_hot",
+    "alt_name": "Columbia Card Task Hot",
+    "description": "There are two conditions: hot and cold. In each condition subjects are presented with 32 cards. Some of them are gain cards, some are loss cards. Subjects are told how many points a gain card is worth, how many points a loss card costs and how many loss cards there are in a round. In the hot version subjects click and turn each card yourself. In the cold version subjects choose how many cards they would like to turn but don't see the result. Each round ends when a loss card is turned. There are 24 rounds. The hot condition is intended to measure affective risk and the cold condition deliberative risk. The two tasks are made comparable by 'fixing' the hot tasks to reflect voluntary stopping by making sure the loss cards are the last possible cards. To avoid learning 9 foil/unfixed trials are also included in the hot condition that are not used for analysis.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_columbia_card_task_hot.git"},
+    "contributors": ["Jamie Li", "Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "20",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_5667492c555b7"} ],
+    "reference": "https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Columbia+Card+task"
+}
